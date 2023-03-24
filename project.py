@@ -1,5 +1,6 @@
 import mysql.connector
 print("This is my project.")
+print("hello")
 con = mysql.connector.connect(host="localhost",
                               user="root",
                               passwd="root",
